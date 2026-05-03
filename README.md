@@ -17,13 +17,13 @@
 
 ## 🚀 Featured Projects
 
-| Project | Tech | Highlights |
-|---------|------|------------|
-| **[AI Ghana Grid Converter](https://github.com/life2allsofts/AI-Ghana-Coordinate-Converter)** | Python, Flask, ML | 3 AI models, 96 tests, live on Hugging Face |
-| **[ITA-Gh-Surveyor GPS](https://github.com/life2allsofts/ita_gh_surveyor_gps)** | Flutter, GIS | Professional surveying suite with KML export |
-| **[Where In The Bible AI](https://github.com/life2allsofts/Where-In-The-Bible-AI)** | React, DeepSeek | AI-powered Bible study assistant |
-| **[Where In The Bible](https://github.com/life2allsofts/Where-In-The-Bible)** | Flutter | Cross-platform KJV Bible app |
-| **[Where In The Law](https://github.com/life2allsofts/where_in_the_law)** | Flutter | Ghana legal reference app |
+| Project | Tech | Live Demo | Highlights |
+|---------|------|-----------|------------|
+| **[AI Ghana Grid Converter](https://github.com/life2allsofts/AI-Ghana-Coordinate-Converter)** | Python, Flask, ML | [🌐 Live Demo](https://tetteh-apotey-ai-ghana-coordinate-converter.hf.space) | 3 AI models, 96 tests |
+| **[ITA-Gh-Surveyor GPS](https://github.com/life2allsofts/ita_gh_surveyor_gps)** | Flutter, GIS | 📱 Coming to Play Store | Professional surveying suite with KML export |
+| **[Where In The Bible AI](https://github.com/life2allsofts/Where-In-The-Bible-AI)** | React, DeepSeek | [🌐 Live Demo](https://tetteh-apotey-where-in-the-bible-ai.hf.space) | AI-powered Bible study assistant |
+| **[Where In The Bible](https://github.com/life2allsofts/Where-In-The-Bible)** | Flutter | 📱 Coming to Play Store | Cross-platform KJV Bible app |
+| **[Where In The Law](https://github.com/life2allsofts/where_in_the_law)** | Flutter | 📱 Coming to Play Store | Ghana legal reference app |
 
 ---
 
