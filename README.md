@@ -2,16 +2,8 @@
 <h3 align="center">Geomatics Engineer → Software Engineer | AI & Flutter Developer</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Flutter-3.19-blue" />
-  <img src="https://img.shields.io/badge/Python-3.11-blue" />
-  <img src="https://img.shields.io/badge/React-18-blue" />
-  <img src="https://img.shields.io/badge/ML-scikit--learn-orange" />
-  <img src="https://img.shields.io/badge/GIS-15+%20years-green" />
+  <img src="https://raw.githubusercontent.com/life2allsofts/life2allsofts/main/assets/profile-badge.png" width="300" />
 </p>
-
-<div align="center">
-  <strong>🌐 <a href="https://tetteh-apotey.vercel.app">Explore my complete portfolio here</a></strong>
-</div>
 
 ---
 
