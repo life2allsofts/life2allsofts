@@ -23,12 +23,21 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Quick Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=life2allsofts&show_icons=true&theme=dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=life2allsofts&layout=compact&theme=dark&hide_border=true" width="48%" />
-</p>
+<div align="center">
+
+![GitHub followers](https://img.shields.io/github/followers/life2allsofts?label=Followers&style=social)
+![GitHub stars](https://img.shields.io/github/stars/life2allsofts?label=Stars&style=social)
+![GitHub sponsors](https://img.shields.io/github/sponsors/life2allsofts?label=Sponsors&style=social)
+
+</div>
+
+**My primary languages:**  
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
+![Flutter](https://img.shields.io/badge/Flutter-3.19-blue?logo=flutter)
+![Dart](https://img.shields.io/badge/Dart-3.3-blue?logo=dart)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?logo=typescript)
 
 ---
 
