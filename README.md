@@ -9,6 +9,10 @@
   <img src="https://img.shields.io/badge/GIS-15+%20years-green" />
 </p>
 
+<div align="center">
+  <strong>🌐 <a href="https://tetteh-apotey.vercel.app">Explore my complete portfolio here</a></strong>
+</div>
+
 ---
 
 ## 🚀 Featured Projects
@@ -30,7 +34,6 @@
 ![GitHub followers](https://img.shields.io/github/followers/life2allsofts?label=Followers&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/life2allsofts?label=Stars&style=social)
 ![GitHub sponsors](https://img.shields.io/github/sponsors/life2allsofts?label=Sponsors&style=social)
-**🌐 [Explore my complete portfolio here](https://tetteh-apotey.vercel.app)**
 
 </div>
 
